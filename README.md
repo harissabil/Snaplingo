@@ -1,5 +1,5 @@
 # Snaplingo
-[![)](https://img.shields.io/badge/latest-v1.0.0--alpha.1-orange)](https://github.com/harissabil/Snaplingo/releases)
+[![)](https://img.shields.io/badge/latest-v1.0.0--alpha.2-orange)](https://github.com/harissabil/Snaplingo/releases)
 
 Snaplingo adalah aplikasi edukasi berbasis mobile yang menggabungkan teknologi AI dan pendekatan gamifikasi untuk mempelajari bahasa Inggris dengan cara yang menyenangkan dan efektif.
 
