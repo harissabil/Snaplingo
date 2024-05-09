@@ -27,7 +27,7 @@ fun SnapTopAppBar(
             scrolledContainerColor = Color.Transparent
         ),
         title = {
-            Text(text = "Snap Object")
+            Text(text = "Snap Translator")
         },
         modifier = modifier,
         navigationIcon = {

@@ -26,7 +26,7 @@ fun TaskScreen(
     val state by viewModel.state.collectAsState()
 
     Scaffold(
-        topBar = { NormalTopAppBar(onBackClick = onBackClick, title = "Task") }
+        topBar = { NormalTopAppBar(onBackClick = onBackClick, title = "Snap Quest") }
     ) { innerPadding ->
         LazyColumn(
             modifier = Modifier
@@ -37,7 +37,7 @@ fun TaskScreen(
         ) {
             item {
                 Text(
-                    text = "Ongoing Tasks",
+                    text = "Ongoing Quest",
                     style = MaterialTheme.typography.headlineSmall,
                     fontWeight = FontWeight.Bold
                 )
@@ -54,7 +54,7 @@ fun TaskScreen(
             if (completedTasks.isNotEmpty()) {
                 item {
                     Text(
-                        text = "Completed Tasks",
+                        text = "Completed Quest",
                         style = MaterialTheme.typography.headlineSmall,
                         fontWeight = FontWeight.Bold
                     )

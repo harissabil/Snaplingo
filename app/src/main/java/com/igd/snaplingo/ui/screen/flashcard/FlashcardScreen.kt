@@ -41,7 +41,7 @@ fun FlashcardScreen(
     )
 
     Scaffold(
-        topBar = { NormalTopAppBar(onBackClick = onBackClick, title = "Flashcard") }
+        topBar = { NormalTopAppBar(onBackClick = onBackClick, title = "Snap Card") }
     ) { innerPadding ->
         if (state.snapList.isNotEmpty()) {
             Column(
