@@ -65,7 +65,7 @@ Untuk meng-install Snaplingo, ada dua opsi yang tersedia:
 
 | varian | tanggal | versi terbaru | link |
 |----------|-------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| v1-alpha | 2024-05-09 | [v1.0.0-alpha.1](https://github.com/harissabil/Snaplingo/releases/tag/v1.0.0-alpha.1) | [APK](https://github.com/harissabil/Snaplingo/releases/download/v1.0.0-alpha.1/app-release.apk) |
+| v1-alpha | 2024-05-09 | [v1.0.0-alpha.2](https://github.com/harissabil/Snaplingo/releases/tag/v1.0.0-alpha.2) | [APK](https://github.com/harissabil/Snaplingo/releases/download/v1.0.0-alpha.2/app-release.apk) |
 
 > _Lihat bagian [Releases](https://github.com/harissabil/Snaplingo/releases) untuk lebih banyak lagi._
 
