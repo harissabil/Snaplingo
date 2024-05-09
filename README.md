@@ -8,51 +8,51 @@ Snaplingo adalah aplikasi edukasi berbasis mobile yang menggabungkan teknologi A
   <tbody>
     <tr>
       <td align="center" width="25%">
-        Snap Object
+        Snap Translator
       </td>
       <td align="center" width="25%">
-        Flashcard
+        Snap Card
       </td>
       <td align="center" width="25%">
-        Task
+        Snap Quest
       </td>
       <td align="center" width="25%">
-        Interactive Map
+        Snap Map
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/screenshot/snap_object.jpg?raw=true" width="100%" class="responsive-img"/>
+        <img src="assets/screenshot/snap_translator.jpg?raw=true" width="100%" class="responsive-img"/>
       </td>
       <td align="center">
-        <img src="assets/screenshot/flashcard.jpg?raw=true" width="100%" class="responsive-img"/>
+        <img src="assets/screenshot/snap_card.jpg?raw=true" width="100%" class="responsive-img"/>
       </td>
       <td align="center">
-        <img src="assets/screenshot/task.jpg?raw=true" width="100%" class="responsive-img"/>
+        <img src="assets/screenshot/snap_quest.jpg?raw=true" width="100%" class="responsive-img"/>
       </td>
       <td align="center">
-        <img src="assets/screenshot/interactive_map.jpg?raw=true" width="100%" class="responsive-img"/>
+        <img src="assets/screenshot/snap_map.jpg?raw=true" width="100%" class="responsive-img"/>
       </td>
     </tr>
   </tbody>
 </table>
 
-- Snap Object:
-  - User memilih tombol "Snap Object" dari halaman utama.
+- Snap Translator:
+  - User memilih tombol "Snap Translator" dari halaman utama.
   - Mereka menggunakan kamera ponsel mereka untuk mengambil foto objek di sekitar mereka.
   - Setelah mengambil foto, aplikasi memproses gambar tersebut dan memberikan informasi tentang objek dalam bahasa Inggris dan bahasa Indonesia.
 
-- Flashcard:
-  - User memilih menu "Flashcard" dari halaman utama.
+- Snap Card:
+  - User memilih menu "Snap Card" dari halaman utama.
   - Mereka diperlihatkan sejumlah kata-kata atau gambar yang telah mereka dapatkan sebelumnya.
   - Pengguna dapat memilih untuk menerjemahkan kata-kata tersebut, atau mereka dapat mencoba mengingatnya sendiri.
 
-- Task:
-  - User memilih menu "Task" dari halaman utama.
+- Snap Quest:
+  - User memilih menu "Snap Quest" dari halaman utama.
   - Mereka diberikan tantangan atau misi tertentu yang harus diselesaikan.
   - Setelah menyelesaikan misi, pengguna mendapatkan exp atau reward tertentu.
 
-- Interactive Map:
+- Snap Map:
   - User bisa melihat map dan legenda dari lokasi sekitarnya di halaman utama.
   - Mereka bisa melihat lokasi objek yang telah diambil sebelumnya.
   - User bisa melacak lokasinya sendiri dan melihatnya di maps.
